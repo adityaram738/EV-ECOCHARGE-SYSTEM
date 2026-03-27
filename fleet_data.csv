@@ -1,0 +1,5 @@
+Vehicle_ID,Current_Battery_Pct,Required_Battery_Pct
+Car_1,20,80
+Van_2,50,60
+Van_3,10,100
+Van_4,40,90
