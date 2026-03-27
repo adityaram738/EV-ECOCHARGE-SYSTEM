@@ -82,3 +82,5 @@ streamlit run app.py
 👨‍💻 Team
 
 Team Techies 🚀
+
+prototype link - https://ev-ecocharge-system-skkmgpuu4d8ymyx6avevzs.streamlit.app/
